@@ -1,0 +1,87 @@
+{
+  "name": "AudienceViewInsightsNative",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "node node_modules/jest/bin/jest.js",
+    "build:android": "node node_modules/react-native/local-cli/cli.js bundle --entry-file index.android.js --bundle-output ./android/app/src/main/assets/index.android.bundle --dev false --platform android --assets-dest ./android/app/src/main/res/",
+    "install:android": "adb install -d android\\app\\app-release.apk",
+    "build:ios": "node node_modules/react-native/local-cli/cli.js bundle --entry-file index.ios.js --bundle-output ./ios/main.jsbundle --dev false --platform ios --assets-dest ./ios",
+    "build:crypto-shim": "node ./node_modules/.bin/rn-nodeify --install crypto --hack",
+    "clean": "./node_modules/react-native/packager/packager.sh clean"
+  },
+  "dependencies": {
+    "@ptomasroos/react-native-multi-slider": "jayesbe/react-native-multi-slider#logarithmic",
+    "accounting": "^0.4.1",
+    "autobind-decorator": "^2.1.0",
+    "bluebird": "^3.5.0",
+    "crypto-js": "^3.1.9-1",
+    "d3": "^4.9.1",
+    "d3-array": "^1.2.0",
+    "d3-axis": "^1.0.8",
+    "d3-format": "^1.2.0",
+    "d3-path": "^1.0.5",
+    "d3-scale": "^1.0.6",
+    "d3-shape": "^1.2.0",
+    "lodash.isequal": "^4.5.0",
+    "moment": "^2.17.1",
+    "money": "^0.2.0",
+    "prop-types": "^15.5.10",
+    "randomcolor": "^0.5.2",
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.48.3",
+    "react-native-animatable": "^1.1.0",
+    "react-native-calendar-events": "^1.4.2",
+    "react-native-calendars": "^1.5.8",
+    "react-native-chooser": "^1.6.0",
+    "react-native-communications": "^2.2.1",
+    "react-native-crypto": "^2.0.1",
+    "react-native-datepicker": "^1.4.4",
+    "react-native-google-analytics-bridge": "^5.2.2",
+    "react-native-google-maps-directions": "^1.1.0",
+    "react-native-infinite-virtualized-list": "^0.1.3",
+    "react-native-keyboard-spacer": "^0.3.1",
+    "react-native-linear-gradient": "^2.2.0",
+    "react-native-maps": "^0.16.3",
+    "react-native-material-initials": "0.0.11",
+    "react-native-material-ui": "^1.11.0",
+    "react-native-pagination": "^1.2.8",
+    "react-native-pathjs-charts": "0.0.31",
+    "react-native-randombytes": "^3.0.0",
+    "react-native-segmented-control-tab": "^3.0.1",
+    "react-native-select-multiple": "^1.0.4",
+    "react-native-share": "^1.0.20",
+    "react-native-simple-gauge": "0.1.3",
+    "react-native-snap-carousel": "^2.4.0",
+    "react-native-splash-screen": "^3.0.1",
+    "react-native-storage": "^0.2.0",
+    "react-native-svg": "^5.4.0",
+    "react-native-swipe-gestures": "^1.0.2",
+    "react-native-vector-icons": "^4.3.0",
+    "react-native-view-shot": "^2.1.0",
+    "react-navigation": "react-community/react-navigation#master",
+    "react-swipeable-views-native": "^0.12.5",
+    "supercluster": "https://github.com/mapbox/supercluster.git",
+    "tinycolor2": "^1.4.1",
+    "url-parse": "^1.1.8"
+  },
+  "devDependencies": {
+    "babel-jest": "^21.0.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-react-native": "3.0.2",
+    "jest": "^21.0.1",
+    "react-test-renderer": "^16.0.0-alpha.12"
+  },
+  "jest": {
+    "preset": "react-native",
+    "transformIgnorePatterns": [
+      "node_modules/(?!(jest-)?react-native|react-navigation|react-native-view-shot|react-clone-referenced-element|expo|@expo/*|exponent|@exponent/*)"
+    ]
+  },
+  "rnpm": {
+    "assets": [
+      "src/res/fonts"
+    ]
+  }
+}

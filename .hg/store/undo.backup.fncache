@@ -1,0 +1,475 @@
+data/src/scene/people/component/map-cluster-marker.js.i
+data/src/res/fonts/Roboto-LightItalic.ttf.i
+data/ios/fastlane/metadata/review_information/notes.txt.i
+data/src/scene/logout/navigator.js.i
+data/ios/AudienceViewInsightsNative-tvOSTests/Info.plist.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthContent.h.i
+data/android/metadata/en-US/title.txt.i
+data/src/component/simple-dialog.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/Splash.imageset/Default-667h@2x.png.i
+data/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png.i
+data/android/app/src/main/res/drawable-mdpi/src_res_img_logo.png.i
+data/src/component/pill.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthURLOpenerOperation.m.i
+data/.babelrc.i
+data/android/app/src/main/assets/drawable-mdpi/node_modules_reactnativedatepicker_date_icon.png.i
+data/src/app.js.i
+data/ios/Pods/Pods.xcodeproj/project.pbxproj.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/AppIcon.appiconset/Icon-29@2x-1.png.i
+data/src/component/popover-view-menu-button.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthURLRequestPerformer.m.i
+data/android/app/src/main/res/drawable-hdpi/ic_launcher.png.i
+data/src/component/event-list-item.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-736h@3x-2.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuth.h.i
+data/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png.i
+data/ios/fastlane/metadata/en-US/support_url.txt.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNativeTests/Pods-AudienceViewInsightsNativeTests.modulemap.i
+data/android/app/src/main/assets/fonts/Roboto-Black.ttf.i
+data/src/scene/dashboard/component/insights-list.js.i
+data/ios/fastlane/metadata/trade_representative_contact_information/state.txt.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/AppIcon.appiconset/Icon-76@2x.png.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-667h@2x.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthURLOpener.h.i
+data/android/settings.gradle.i
+data/android/app/src/main/res/drawable-mdpi/ic_launcher.png.i
+data/ios/Pods/DCTAuth/DCTAuth/NSString+DCTAuth.h.i
+data/src/service/google-sheet.js.i
+data/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon.png.i
+data/package-lock.json.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTBasicAuthAccount.h.i
+data/android/app/src/main/res/mipmap-hdpi/ic_launcher.png.i
+data/src/scene/dashboard/component/people.js.i
+data/android/app/src/main/res/mipmap-mdpi/ic_launcher.png.i
+data/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeselectmultiple_images_iconcheckbox.png.i
+data/android/metadata/en-US/images/icon.png.i
+data/src/component/tag-pill.js.i
+data/ios/Pods/DCTAuth/LICENSE.i
+data/ios/Pods/Target Support Files/DCTAuth/DCTAuth-prefix.pch.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthAccountStore+Private.h.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOSTests/Pods-AudienceViewInsightsNative-tvOSTests-resources.sh.i
+data/src/scene/insights/component/insights/event-yesterday-summary-insight.js.orig.i
+data/ios/AudienceViewInsightsNative/AppDelegate.h.i
+data/ios/fastlane/Appfile.i
+data/src/component/image-tile.js.i
+data/ios/fastlane/metadata/secondary_first_sub_category.txt.i
+data/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_src_views_assets_backicon.png.i
+data/src/service/fetcher.js.i
+data/ios/fastlane/metadata/review_information/email_address.txt.i
+data/android/app/src/main/assets/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png.i
+data/android/app/src/main/res/values/styles.xml.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOS/Pods-AudienceViewInsightsNative-tvOS.modulemap.i
+data/ios/Podfile.i
+data/android/app/src/main/java/com/audienceviewinsightsnative/MainApplication.java.i
+data/src/res/fonts/Roboto-ThinItalic.ttf.i
+data/src/component/charts/line-chart.js.i
+data/.watchmanconfig.i
+data/src/component/simple-activity-indicator.js.i
+data/src/res/img/logo.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth2Credential.m.i
+data/src/component/simple-modal.js.i
+data/android/app/src/main/assets/fonts/FontAwesome.ttf.i
+data/android/app/src/main/assets/fonts/Roboto-BlackItalic.ttf.i
+data/src/component/async-data-list-view.js.i
+data/ios/AudienceViewInsightsNative/main.m.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-1242@3x~iphone6s-portrait_1242x2208-3.png.i
+data/android/app/src/main/res/drawable-mdpi/node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon.png.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-1242@3x~iphone6s-portrait_1242x2208-3.png.d
+data/android/app/src/main/assets/drawable-mdpi/src_res_img_background.png.i
+data/src/component/background-image.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth2RequestType.h.i
+data/android/app/src/main/assets/fonts/Foundation.ttf.i
+data/src/component/fund-insight-card.js.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOS/Info.plist.i
+data/ios/Pods/Manifest.lock.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOS/Pods-AudienceViewInsightsNative-tvOS-dummy.m.i
+data/src/component/number-range-slider-filter.js.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNativeTests/Pods-AudienceViewInsightsNativeTests-acknowledgements.plist.i
+data/ios/fastlane/metadata/trade_representative_contact_information/country.txt.i
+data/ios/fastlane/metadata/primary_first_sub_category.txt.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/AppIcon.appiconset/Icon-40@3x.png.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative/Pods-AudienceViewInsightsNative.modulemap.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthRequest.h.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthAccountStore.m.i
+data/ios/Pods/DCTAuth/DCTAuth/NSKeyedUnarchiver+DCTAuth.m.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth2Account.h.i
+data/__tests__/index.ios.js.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOSTests/Pods-AudienceViewInsightsNative-tvOSTests-umbrella.h.i
+data/src/component/url-text-input.js.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOSTests/Pods-AudienceViewInsightsNative-tvOSTests-dummy.m.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOSTests/Pods-AudienceViewInsightsNative-tvOSTests-acknowledgements.markdown.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOS/Pods-AudienceViewInsightsNative-tvOS-frameworks.sh.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth1Keys.h.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNativeTests/Pods-AudienceViewInsightsNativeTests-dummy.m.i
+data/android/metadata/en-US/short_description.txt.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOS/Pods-AudienceViewInsightsNative-tvOS-acknowledgements.markdown.i
+data/android/app/src/main/res/drawable-mdpi/launch_screen.png.i
+data/android/app/proguard-rules.pro.i
+data/ios/fastlane/metadata/trade_representative_contact_information/address_line1.txt.i
+data/android/app/src/main/res/drawable-xxxhdpi/launch_screen.png.i
+data/src/scene/event/component/event-people.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth2.m.i
+data/android/app/src/main/res/drawable-xxxhdpi/launch_screen.png.d
+data/android/app/src/main/assets/drawable-xhdpi/node_modules_reactnavigation_src_views_assets_backicon.png.i
+data/src/scene/people/navigator.js.i
+data/ios/fastlane/README.md.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth1Signature.h.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNativeTests/Pods-AudienceViewInsightsNativeTests-resources.sh.i
+data/ios/fastlane/metadata/copyright.txt.i
+data/android/app/src/main/assets/fonts/Roboto-MediumItalic.ttf.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative/Pods-AudienceViewInsightsNative.release.xcconfig.i
+data/ios/fastlane/metadata/secondary_second_sub_category.txt.i
+data/src/res/fonts/Roboto-Black.ttf.i
+data/android/app/src/main/java/com/audienceviewinsightsnative/MainActivity.java.i
+data/src/scene/login/component/forgot-password-dialog.js.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNativeTests/Pods-AudienceViewInsightsNativeTests-umbrella.h.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthResponse.h.i
+data/ios/fastlane/metadata/trade_representative_contact_information/trade_name.txt.i
+data/ios/Pods/Target Support Files/DCTAuth/DCTAuth-umbrella.h.i
+data/src/scene/dashboard/component/events.js.i
+data/ios/AudienceViewInsightsNative/Info.plist.i
+data/src/component/date-picker-dialog.js.i
+data/src/component/popover-view.js.i
+data/src/scene/people/component/people.js.i
+data/android/app/src/main/assets/fonts/Roboto-Italic.ttf.i
+data/src/component/animated/flipper.js.i
+data/android/app/src/main/res/drawable-xxxhdpi/ic_launcher.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthPlatform.h.i
+data/src/scene/people/component/events-range-filter.js.i
+data/src/component/username-text-input.js.i
+data/src/component/filter-marker.js.i
+data/android/app/src/main/assets/fonts/Roboto-Light.ttf.i
+data/android/app/src/main/assets/fonts/MaterialIcons.ttf.i
+data/src/scene/event/component/event-insights.js.i
+data/src/scene/event/component/event.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/AppIcon.appiconset/Icon-29@3x.png.i
+data/android/app/BUCK.i
+data/src/component/currency-range-slider-filter.js.i
+data/src/component/animated/switcher.js.i
+data/src/component/tile/date-tile.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/Splash.imageset/Default.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthAccount.h.i
+data/src/res/fonts/Roboto-BoldItalic.ttf.i
+data/android/keystores/BUCK.i
+data/src/component/tags-input.js.i
+data/src/component/charts/area-spline.js.i
+data/ios/fastlane/metadata/review_information/last_name.txt.i
+data/src/component/person-insight-card.js.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOSTests/Pods-AudienceViewInsightsNative-tvOSTests-acknowledgements.plist.i
+data/src/scene/dashboard/component/dashboard.js.i
+data/src/component/share-button.js.i
+data/ios/fastlane/metadata/trade_representative_contact_information/postal_code.txt.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOSTests/Info.plist.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default@2x-1.png.i
+data/android/gradle/wrapper/gradle-wrapper.jar.i
+data/android/app/src/main/res/drawable-mdpi/launch_screen.png.d
+data/index.ios.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTBasicAuthCredential.h.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative/Pods-AudienceViewInsightsNative-frameworks.sh.i
+data/src/res/fonts/Roboto-Medium.ttf.i
+data/android/app/src/main/res/values/strings.xml.i
+data/android/app/src/main/res/layout/launch_screen.xml.i
+data/src/scene/people/component/person-details.js.orig.i
+data/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeselectmultiple_images_iconcheckboxchecked.png.i
+data/src/component/range-pill.js.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOS/Pods-AudienceViewInsightsNative-tvOS-umbrella.h.i
+data/src/component/tile/gauge-tile.js.i
+data/ios/fastlane/metadata/review_information/demo_user.txt.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthMultipartData.h.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAbstractAuthAccountProperties.h.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOSTests/Pods-AudienceViewInsightsNative-tvOSTests.debug.xcconfig.i
+data/src/res/fonts/Roboto-Thin.ttf.i
+data/android/app/src/main/assets/drawable-mdpi/src_res_img_logo.png.i
+data/ios/fastlane/metadata/en-US/name.txt.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth1Account.m.i
+data/src/scene/login/component/change-password-dialog.js.i
+data/android/app/src/main/assets/index.android.bundle.d
+data/src/component/number-input.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-736h@3x-1.png.i
+data/android/app/src/main/assets/index.android.bundle.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuth.m.i
+data/src/res/fonts/Roboto-Light.ttf.i
+data/android/app/src/main/assets/fonts/MaterialCommunityIcons.ttf.d
+data/src/scene/dashboard/navigator.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth2Keys.h.i
+data/android/app/src/main/assets/fonts/MaterialCommunityIcons.ttf.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default@2x~iphone_640x960-3.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthRequestMethod.m.i
+data/android/app/src/main/assets/fonts/Roboto-Medium.ttf.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthAccountStoreQuery.m.i
+data/android/app/src/main/res/drawable-mdpi/src_res_img_background.png.i
+data/ios/Podfile.lock.i
+data/ios/AudienceViewInsightsNative/AppDelegate.m.i
+data/android/metadata/en-US/video.txt.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Contents.json.i
+data/android/app/src/main/assets/fonts/SimpleLineIcons.ttf.i
+data/src/scene/insights/component/insights/event-yesterday-summary-insight.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthKeychainAccess.h.i
+data/src/res/fonts/Roboto-Bold.ttf.i
+data/android/app/src/main/assets/fonts/Octicons.ttf.i
+data/src/component/async-virtualized-list.js.i
+data/ios/AudienceViewInsightsNativeTests/AudienceViewInsightsNativeTests.m.i
+data/src/res/img/login-bg.png.d
+data/android/app/src/main/assets/fonts/Roboto-Regular.ttf.i
+data/src/app/audience-view.js.i
+data/src/res/img/login-bg.png.i
+data/src/res/fonts/Roboto-Regular.ttf.i
+data/android/app/src/main/assets/fonts/EvilIcons.ttf.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative/Pods-AudienceViewInsightsNative-dummy.m.i
+data/ios/AudienceViewInsightsNative.app.dSYM.zip.d
+data/src/res/fonts/Roboto-MediumItalic.ttf.i
+data/android/app/src/main/assets/drawable-mdpi/node_modules_reactnavigation_src_views_assets_backicon.png.i
+data/src/res/fonts/icomoon.ttf.i
+data/ios/AudienceViewInsightsNative.app.dSYM.zip.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-1242@3x~iphone6s-landscape_2208x1242.png.d
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthAccountSubclass.h.i
+data/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedatepicker_date_icon.png.i
+data/android/gradle.properties.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-1242@3x~iphone6s-landscape_2208x1242.png.i
+data/ios/fastlane/metadata/trade_representative_contact_information/city_name.txt.i
+data/ios/Pods/Target Support Files/DCTAuth/DCTAuth.modulemap.i
+data/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png.i
+data/src/component/tile/expand-corner.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth1Credential.m.i
+data/src/scene/insights/component/insights/person-bought-admission-insight.js.i
+data/src/component/person-events-list-item.js.i
+data/src/component/basic-dialog.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth1ParameterTransmission.h.i
+data/android/app/src/main/assets/drawable-xxxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png.i
+data/src/component/password-text-input.js.i
+data/android/keystores/debug.keystore.properties.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/Splash.imageset/Contents.json.i
+data/ios/fastlane/metadata/en-US/description.txt.i
+data/ios/fastlane/Deliverfile.i
+data/src/scene/people/component/person-events.js.i
+data/src/service/av.js.i
+data/android/app/src/main/AndroidManifest.xml.i
+data/android/app/build.gradle.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthURLOpener.m.i
+data/android/app/src/main/assets/fonts/Roboto-ThinItalic.ttf.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/AppIcon.appiconset/Icon-40@2x.png.i
+data/src/component/date-range-filter.js.i
+data/ios/Pods/Target Support Files/DCTAuth/DCTAuth-dummy.m.i
+data/src/scene/login/component/server-dialog.js.i
+data/src/component/basic-activity-indicator.js.i
+data/android/app/src/main/assets/fonts/Roboto-Bold.ttf.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOSTests/Pods-AudienceViewInsightsNative-tvOSTests.release.xcconfig.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-568h@2x~iphone_640x1136-4.png.d
+data/src/component/simple-card.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthAccountStoreQueryDelegate.h.i
+data/ios/fastlane/metadata/en-US/promotional_text.txt.i
+data/android/app/src/main/assets/fonts/Ionicons.ttf.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative/Pods-AudienceViewInsightsNative-acknowledgements.markdown.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-568h@2x~iphone_640x1136-4.png.i
+data/android/app/src/main/assets/fonts/Zocial.ttf.i
+data/src/component/email-text-input.js.i
+data/src/scene/event/component/events.js.i
+data/android/build.gradle.i
+data/src/scene/insights/component/insights/insight.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth2Account.m.i
+data/src/scene/insights/component/insights/empty-insight.js.i
+data/src/scene/insights/component/insights/person-donated-insight.js.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOS/Pods-AudienceViewInsightsNative-tvOS-acknowledgements.plist.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthContent.m.i
+data/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_src_views_assets_backicon.png.i
+data/src/component/auto-webview.js.i
+data/ios/fastlane/metadata/en-US/release_notes.txt.i
+data/src/scene/people/component/customer-profile-filter.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthContentType.h.i
+data/ios/Pods/Target Support Files/DCTAuth/DCTAuth.xcconfig.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth2RequestType.m.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth1Credential.h.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOS/Pods-AudienceViewInsightsNative-tvOS.debug.xcconfig.i
+data/ios/Pods/Local Podspecs/DCTAuth.podspec.json.i
+data/ios/fastlane/metadata/review_information/demo_password.txt.i
+data/android/metadata/en-US/full_description.txt.i
+data/android/app/src/main/assets/fonts/icomoon.ttf.i
+data/android/app/src/main/assets/fonts/Roboto-LightItalic.ttf.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/AppIcon.appiconset/Icon-76.png.i
+data/ios/fastlane/Fastfile.i
+data/ios/Pods/DCTAuth/Readme.markdown.i
+data/ios/icomoon.ttf.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/AppIcon.appiconset/Icon-29@3x-1.png.i
+data/ios/fastlane/metadata/primary_second_sub_category.txt.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthRequest.m.i
+data/src/res/fonts/Roboto-BlackItalic.ttf.i
+data/src/scene/insights/component/insights/person-bought-admission-insight.js.orig.i
+data/android/gradlew.bat.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/AppIcon.appiconset/Icon-60@2x.png.i
+data/ios/fastlane/metadata/review_information/phone_number.txt.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default~iphone-2.png.i
+data/ios/AudienceViewInsightsNative-tvOS/Info.plist.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOS/Pods-AudienceViewInsightsNative-tvOS-resources.sh.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthURLRequestPerformer.h.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-568h@2x~iphone_640x1136-3.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth2.h.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNativeTests/Pods-AudienceViewInsightsNativeTests-acknowledgements.markdown.i
+data/src/component/icon-pill.js.i
+data/index.android.js.i
+data/android/app/src/main/res/drawable-hdpi/node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon.png.i
+data/ios/Default-736h@3x.png.i
+data/android/app/src/main/assets/fonts/Entypo.ttf.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/AppIcon.appiconset/Contents.json.i
+data/src/scene/people/component/person.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-568h@2x~iphone_640x1136-3.png.d
+data/ios/AudienceViewInsightsNative/Base.lproj/LaunchScreen.xib.i
+data/.hgignore.i
+data/src/scene/people/component/person-activity.js.i
+data/ios/main.jsbundle.meta.i
+data/ios/assets/src/res/img/logo.png.i
+data/src/scene/event/component/event-stats.js.i
+data/src/component/timeframe-dropdown.js.i
+data/android/app/src/main/res/drawable-xhdpi/ic_launcher.png.i
+data/ios/fastlane/metadata/review_information/first_name.txt.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/Contents.json.i
+data/android/gradlew.i
+data/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon.png.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/AppIcon.appiconset/Icon-29@2x.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthURLOpenerOperation.h.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth1Signature.m.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth1Keys.m.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/Splash.imageset/Default-736h@3x.png.i
+data/android/app/src/main/res/drawable-mdpi/src_res_img_loginbg.png.d
+data/android/app/src/main/res/drawable-mdpi/src_res_img_loginbg.png.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/AppIcon.appiconset/Icon-60@3x.png.i
+data/ios/AudienceViewInsightsNativeTests/Info.plist.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthMultipartData.m.i
+data/android/app/src/main/assets/drawable-mdpi/node_modules_reactnativeselectmultiple_images_iconcheckbox.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAbstractAuthAccountProperties.m.i
+data/android/app/src/main/res/drawable-xxhdpi/ic_launcher.png.i
+data/ios/AudienceViewInsightsNative.xcodeproj/xcshareddata/xcschemes/AudienceViewInsightsNative-tvOS.xcscheme.i
+data/yarn.lock.i
+data/android/app/src/main/assets/drawable-hdpi/node_modules_reactnavigation_src_views_assets_backicon.png.i
+data/src/component/multi-picker-filter.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTBasicAuthAccount.m.i
+data/package.json.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-Landscape@2x~ipad_2048x1536.png.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-Portrait@2x~ipad_1536x2048.png.d
+data/ios/Pods/DCTAuth/DCTAuth/NSKeyedUnarchiver+DCTAuth.h.i
+data/src/scene/insights/component/insights/empty-insight.js.orig.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-Landscape@2x~ipad_2048x1536.png.d
+data/src/navigator/headers.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-Portrait@2x~ipad_1536x2048.png.i
+data/__tests__/index.android.js.i
+data/src/scene/login/component/login-dialog.js.i
+data/android/app/src/main/assets/index.android.bundle.meta.i
+data/src/scene/people/component/people-list.js.i
+data/src/scene/insights/component/insights/person-donated-insight.js.orig.i
+data/src/component/insight-card.js.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative/Pods-AudienceViewInsightsNative-umbrella.h.i
+data/src/res/img/background.png.i
+data/ios/AudienceViewInsightsNative.xcodeproj/project.pbxproj.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthKeychainAccess.m.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthPlatform.m.i
+data/android/app/src/main/assets/fonts/Roboto-Thin.ttf.i
+data/ios/AudienceViewInsightsNative.xcworkspace/contents.xcworkspacedata.i
+data/src/component/simple-status.js.i
+data/src/component/gauge/basic-gauge.js.i
+data/src/component/tile/simple-tile.js.i
+data/ios/fastlane/metadata/trade_representative_contact_information/is_displayed_on_app_store.txt.i
+data/src/component/popover-view-divider.js.i
+data/src/component/tile/number-tile.js.orig.i
+data/src/component/picker-filter.js.i
+data/src/scene/event/component/events-list.js.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative/Pods-AudienceViewInsightsNative-acknowledgements.plist.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative/Pods-AudienceViewInsightsNative.debug.xcconfig.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth1SignatureType.h.i
+data/ios/assets/src/res/img/background.png.i
+data/src/component/art/anim-shape.js.i
+data/ios/fastlane/metadata/en-US/marketing_url.txt.i
+data/src/scene/insights/navigator.js.i
+data/src/lib/theme.js.i
+data/ios/fastlane/metadata/en-US/keywords.txt.i
+data/src/component/gauge/circle-gauge.js.i
+data/src/lib/animation.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/Splash.imageset/Default~iphone.png.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-Landscape~ipad_1024x748.png.i
+data/src/scene/dashboard/component/admissions-details.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-Landscape~ipad_1024x748.png.d
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-736h@3x.png.i
+data/android/app/src/main/res/drawable-xxhdpi/launch_screen.png.d
+data/src/scene/login/navigator.js.i
+data/android/app/src/main/res/drawable-xxhdpi/launch_screen.png.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative/Pods-AudienceViewInsightsNative-resources.sh.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOSTests/Pods-AudienceViewInsightsNative-tvOSTests.modulemap.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthAccountStore.h.i
+data/src/component/gauge/basic-currency.js.i
+data/android/app/src/main/assets/index.android.bundle.orig.i
+data/src/component/person-list-item.js.i
+data/android/app/src/main/assets/fonts/Roboto-BoldItalic.ttf.i
+data/android/app/src/main/res/drawable-hdpi/launch_screen.png.i
+data/android/app/src/main/res/drawable-hdpi/launch_screen.png.d
+data/android/app/src/main/assets/index.android.bundle.orig.d
+data/android/gradle/wrapper/gradle-wrapper.properties.i
+data/src/component/animated/carousel.js.i
+data/android/app/src/main/res/drawable-xhdpi/launch_screen.png.i
+data/src/scene/people/component/map.js.i
+data/src/scene/insights/component/insights/event-today-summary-insight.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth2Credential.h.i
+data/ios/fastlane/metadata/secondary_category.txt.i
+data/android/app/src/main/res/drawable-xhdpi/launch_screen.png.d
+data/android/app/src/main/res/drawable-xhdpi/node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon.png.i
+data/src/scene/insights/component/insights/person-insight.js.orig.i
+data/src/component/event-person-list-item.js.i
+data/ios/AudienceViewInsightsNative.xcodeproj/xcshareddata/xcschemes/AudienceViewInsightsNative.xcscheme.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/Splash.imageset/Default-1242@3x~iphone6s-portrait_1242x2208.png.i
+data/src/component/charts/event-sales-by-period.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/Splash.imageset/Default-1242@3x~iphone6s-portrait_1242x2208.png.d
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default@2x~iphone_640x960.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTBasicAuthCredential.m.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative/Info.plist.i
+data/src/component/number-range-filter.js.i
+data/.buckconfig.i
+data/ios/main.jsbundle.i
+data/src/scene/insights/component/insights.js.i
+data/ios/main.jsbundle.d
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNativeTests/Pods-AudienceViewInsightsNativeTests-frameworks.sh.i
+data/ios/fastlane/metadata/en-US/privacy_url.txt.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOS/Pods-AudienceViewInsightsNative-tvOS.release.xcconfig.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default.png.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNativeTests/Info.plist.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth1Account.h.i
+data/src/component/animated-activity-indicator.js.i
+data/ios/Pods/DCTAuth/DCTAuth/NSString+DCTAuth.m.i
+data/ios/fastlane/metadata/en-US/subtitle.txt.i
+data/src/scene/event/navigator.js.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNativeTests/Pods-AudienceViewInsightsNativeTests.release.xcconfig.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthAccount+Private.h.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNative-tvOSTests/Pods-AudienceViewInsightsNative-tvOSTests-frameworks.sh.i
+data/android/app/src/main/assets/drawable-mdpi/src_res_img_loginbg.png.i
+data/ios/assets/src/res/img/login-bg.png.i
+data/src/scene/event/component/event-admissions-details.js.i
+data/android/app/src/main/assets/drawable-mdpi/src_res_img_loginbg.png.d
+data/ios/assets/src/res/img/login-bg.png.d
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthAccountStoreQuery.h.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthResponse.m.i
+data/src/res/fonts/selection.json.i
+data/android/app/src/main/assets/drawable-mdpi/node_modules_reactnativeselectmultiple_images_iconcheckboxchecked.png.i
+data/src/scene/dashboard/component/insights.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-750@2x~iphone6-portrait_750x1334-1.png.d
+data/src/component/event-insight-card.js.i
+data/src/res/fonts/Roboto-Italic.ttf.i
+data/src/data/google-sheet.js.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTOAuth2Keys.m.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-750@2x~iphone6-portrait_750x1334-1.png.i
+data/ios/Pods/Target Support Files/Pods-AudienceViewInsightsNativeTests/Pods-AudienceViewInsightsNativeTests.debug.xcconfig.i
+data/src/component/person-activity-list-item.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/Splash.imageset/Default@2x~iphone_640x960.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthRequestMethod.h.i
+data/ios/AudienceViewInsightsNative/AudienceViewInsightsNative.entitlements.i
+data/src/component/tile/number-tile.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-Portrait~ipad_768x1024.png.d
+data/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_src_views_assets_backicon.png.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-Portrait~ipad_768x1024.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthAccount.m.i
+data/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png.i
+data/ios/Pods/DCTAuth/DCTAuth/DCTAuthAccountCredential.h.i
+data/ios/Pods/Target Support Files/DCTAuth/Info.plist.i
+data/src/scene/insights/component/insights/person-insight.js.i
+data/.flowconfig.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default@2x.png.i
+data/ios/fastlane/metadata/primary_category.txt.i
+data/src/scene/login/component/login.js.i
+data/ios/AudienceViewInsightsNative/Images.xcassets/LaunchImage.launchimage/Default-Landscape-736h@3x.png.i
+data/src/scene/people/component/person-details.js.i
+data/src/scene/logout/component/logout.js.i
